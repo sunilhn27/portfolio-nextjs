@@ -12,8 +12,8 @@ function Homepage() {
           I make ideas & things alive.
         </h1>
         <p>
-          I'm a{" "}
-          <span className="text-cyan-400 font-bold">software engineer</span>{" "}
+          Im a Sunil H N
+          <span className="text-cyan-400 font-bold">software engineer</span>
           skilled in problem-solving and specializing in building (and
           occasionally designing) exceptional digital experiences.
         </p>
