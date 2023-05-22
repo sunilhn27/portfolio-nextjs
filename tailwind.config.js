@@ -13,7 +13,7 @@ module.exports = {
     extend: {
       backgroundImage: {},
       fontFamily: {
-        play: ["Concert On", "cursive"],
+        play: ["Poppins", "sans-serif"],
       },
     },
   },
