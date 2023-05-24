@@ -9,16 +9,16 @@ function NavBar() {
 
 
   return (
-    <div className="text-white bg-slate-700">
+    <div className="text-white bg-black">
       <nav className="flex justify-between items-center px-5">
         <Link href={"/"}>
           <Image className="h-16 w-16" src={logo} alt="img" />
         </Link>
-        <div className="hidden md:flex space-x-5 items-center  font-bold">
-          <Link href={"/"} className="hover:text-orange-400">Home</Link>
-          <Link href={"/experience"} className="hover:text-orange-400">  Experience</Link>
-          <Link href={"/contactme"} className="hover:text-orange-400">Contact Me</Link>
-          <Link href={"/projects"} className="hover:text-orange-400">Projects</Link>
+        <div className="hidden md:flex space-x-5 items-center font-bold">
+          <Link href={"/"} className="hover:text-orange-400 font-extrabold">Home</Link>
+          <Link href={"/experience"} className=" hover:text-orange-400">  Experience</Link>
+          <Link href={"/contactme"} className="hover:text-orange-400 font-bold">Contact Me</Link>
+          <Link href={"/projects"} className="hover:text-font-bold">Projects</Link>
           <i className=" text-white fa-solid fa-bars text-2xl"></i>
         </div>
         <div className="md:hidden">

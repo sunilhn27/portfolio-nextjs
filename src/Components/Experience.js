@@ -24,7 +24,7 @@ function Experience() {
 
   return (
     <div className='flex flex-row gap-3 '>
-{/* 
+      {/* 
       <div className='border-1 h-3 bg-white flex flex-col'></div> */}
 
 
