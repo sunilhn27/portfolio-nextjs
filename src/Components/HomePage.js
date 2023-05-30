@@ -7,7 +7,7 @@ function Homepage() {
     <div className="flex flex-col-reverse md:flex-row justify-center items-center text-white">
       <div className="flex flex-1 flex-col justify-center px-16 space-y-4 m-3">
         <p className="text-cyan-400 font-bold">Hi, my name is</p>
-        <h1 className="text-5xl font-extrabold ">Sunil Shetty</h1>
+        <h1 className="text-5xl font-extrabold ">Sunil </h1>
         <h1 className="text-5xl font-extrabold text-gray-400">
           I make ideas & things alive.
         </h1>
